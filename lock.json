@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "current_profile_name": "default",
+  "repos": [
+    {
+      "type": "git",
+      "path": "github.com/altercation/vim-colors-solarized",
+      "version": "528a59f26d12278698bb946f8fb82a63711eec21"
+    },
+    {
+      "type": "git",
+      "path": "github.com/cohama/lexima.vim",
+      "version": "85cfff9f7d16bd1ad76fcfedca6ab4982af6ba9d"
+    },
+    {
+      "type": "git",
+      "path": "github.com/tpope/vim-surround",
+      "version": "597068870b8f093a8b2d11536c62ff31222ee8d0"
+    }
+  ],
+  "profiles": [
+    {
+      "name": "default",
+      "repos_path": [
+        "github.com/altercation/vim-colors-solarized",
+        "github.com/cohama/lexima.vim",
+        "github.com/tpope/vim-surround"
+      ]
+    }
+  ]
+}
