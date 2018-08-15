@@ -16,6 +16,11 @@
       "type": "git",
       "path": "github.com/tpope/vim-surround",
       "version": "597068870b8f093a8b2d11536c62ff31222ee8d0"
+    },
+    {
+      "type": "git",
+      "path": "github.com/fatih/vim-go",
+      "version": "04699c8916c777ad3c6dc8a803d55d8d222b3026"
     }
   ],
   "profiles": [
@@ -24,7 +29,8 @@
       "repos_path": [
         "github.com/altercation/vim-colors-solarized",
         "github.com/cohama/lexima.vim",
-        "github.com/tpope/vim-surround"
+        "github.com/tpope/vim-surround",
+        "github.com/fatih/vim-go"
       ]
     }
   ]
