@@ -21,6 +21,11 @@
       "type": "git",
       "path": "github.com/fatih/vim-go",
       "version": "04699c8916c777ad3c6dc8a803d55d8d222b3026"
+    },
+    {
+      "type": "git",
+      "path": "github.com/junegunn/vim-easy-align",
+      "version": "1cd724dc239c3a0f7a12e0fac85945cc3dbe07b0"
     }
   ],
   "profiles": [
@@ -30,7 +35,8 @@
         "github.com/altercation/vim-colors-solarized",
         "github.com/cohama/lexima.vim",
         "github.com/tpope/vim-surround",
-        "github.com/fatih/vim-go"
+        "github.com/fatih/vim-go",
+        "github.com/junegunn/vim-easy-align"
       ]
     }
   ]
