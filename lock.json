@@ -26,6 +26,16 @@
       "type": "git",
       "path": "github.com/junegunn/vim-easy-align",
       "version": "1cd724dc239c3a0f7a12e0fac85945cc3dbe07b0"
+    },
+    {
+      "type": "git",
+      "path": "github.com/othree/yajs.vim",
+      "version": "5cf2b9ef25eb5bb0a5116e902c17615937150f17"
+    },
+    {
+      "type": "git",
+      "path": "github.com/ConradIrwin/vim-bracketed-paste",
+      "version": "c4c639f3cacd1b874ed6f5f196fac772e089c932"
     }
   ],
   "profiles": [
@@ -36,7 +46,9 @@
         "github.com/cohama/lexima.vim",
         "github.com/tpope/vim-surround",
         "github.com/fatih/vim-go",
-        "github.com/junegunn/vim-easy-align"
+        "github.com/junegunn/vim-easy-align",
+        "github.com/othree/yajs.vim",
+        "github.com/ConradIrwin/vim-bracketed-paste"
       ]
     }
   ]
