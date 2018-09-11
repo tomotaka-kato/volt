@@ -36,6 +36,11 @@
       "type": "git",
       "path": "github.com/ConradIrwin/vim-bracketed-paste",
       "version": "c4c639f3cacd1b874ed6f5f196fac772e089c932"
+    },
+    {
+      "type": "git",
+      "path": "github.com/kana/vim-filetype-haskell",
+      "version": "31b40b0961974067de569df7a7458498e4de5775"
     }
   ],
   "profiles": [
@@ -48,7 +53,8 @@
         "github.com/fatih/vim-go",
         "github.com/junegunn/vim-easy-align",
         "github.com/othree/yajs.vim",
-        "github.com/ConradIrwin/vim-bracketed-paste"
+        "github.com/ConradIrwin/vim-bracketed-paste",
+        "github.com/kana/vim-filetype-haskell"
       ]
     }
   ]
