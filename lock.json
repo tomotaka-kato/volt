@@ -10,7 +10,7 @@
     {
       "type": "git",
       "path": "github.com/cohama/lexima.vim",
-      "version": "85cfff9f7d16bd1ad76fcfedca6ab4982af6ba9d"
+      "version": "e8f57d25cdb5952b806d560c8fd86fbf1c91e223"
     },
     {
       "type": "git",
@@ -20,7 +20,7 @@
     {
       "type": "git",
       "path": "github.com/fatih/vim-go",
-      "version": "04699c8916c777ad3c6dc8a803d55d8d222b3026"
+      "version": "8df48b2c2c8aa02dd5ab00b6e9f35b0b9808d798"
     },
     {
       "type": "git",
