@@ -41,6 +41,36 @@
       "type": "git",
       "path": "github.com/kana/vim-filetype-haskell",
       "version": "31b40b0961974067de569df7a7458498e4de5775"
+    },
+    {
+      "type": "git",
+      "path": "github.com/godlygeek/tabular",
+      "version": "00e1e7fcdbc6d753e0bc8043e0d2546fa81bf367"
+    },
+    {
+      "type": "git",
+      "path": "github.com/plasticboy/vim-markdown",
+      "version": "f19506b1bfe5e60c39581dd53f6913a09385f5dd"
+    },
+    {
+      "type": "git",
+      "path": "github.com/autozimu/LanguageClient-neovim",
+      "version": "183fbf5e1904aae92baabd809ec8589f251481f7"
+    },
+    {
+      "type": "git",
+      "path": "github.com/Shougo/deoplete.nvim",
+      "version": "93f6e3bce8229557b952dcad792786b1cc228991"
+    },
+    {
+      "type": "git",
+      "path": "github.com/roxma/nvim-yarp",
+      "version": "5443ac06b3989baa9262adec810503e0234c316e"
+    },
+    {
+      "type": "git",
+      "path": "github.com/roxma/vim-hug-neovim-rpc",
+      "version": "a8cdb6b627da3a9c4b8ea85a329112484a857cf1"
     }
   ],
   "profiles": [
@@ -54,7 +84,13 @@
         "github.com/junegunn/vim-easy-align",
         "github.com/othree/yajs.vim",
         "github.com/ConradIrwin/vim-bracketed-paste",
-        "github.com/kana/vim-filetype-haskell"
+        "github.com/kana/vim-filetype-haskell",
+        "github.com/godlygeek/tabular",
+        "github.com/plasticboy/vim-markdown",
+        "github.com/autozimu/LanguageClient-neovim",
+        "github.com/Shougo/deoplete.nvim",
+        "github.com/roxma/nvim-yarp",
+        "github.com/roxma/vim-hug-neovim-rpc"
       ]
     }
   ]
