@@ -10,7 +10,7 @@
     {
       "type": "git",
       "path": "github.com/cohama/lexima.vim",
-      "version": "e8f57d25cdb5952b806d560c8fd86fbf1c91e223"
+      "version": "85cfff9f7d16bd1ad76fcfedca6ab4982af6ba9d"
     },
     {
       "type": "git",
@@ -20,7 +20,7 @@
     {
       "type": "git",
       "path": "github.com/fatih/vim-go",
-      "version": "8df48b2c2c8aa02dd5ab00b6e9f35b0b9808d798"
+      "version": "04699c8916c777ad3c6dc8a803d55d8d222b3026"
     },
     {
       "type": "git",
@@ -59,18 +59,8 @@
     },
     {
       "type": "git",
-      "path": "github.com/Shougo/deoplete.nvim",
-      "version": "93f6e3bce8229557b952dcad792786b1cc228991"
-    },
-    {
-      "type": "git",
-      "path": "github.com/roxma/nvim-yarp",
-      "version": "5443ac06b3989baa9262adec810503e0234c316e"
-    },
-    {
-      "type": "git",
-      "path": "github.com/roxma/vim-hug-neovim-rpc",
-      "version": "a8cdb6b627da3a9c4b8ea85a329112484a857cf1"
+      "path": "github.com/w0rp/ale",
+      "version": "fd0467f9927d0bf5ee88b157c1978c3b69509460"
     }
   ],
   "profiles": [
@@ -88,9 +78,7 @@
         "github.com/godlygeek/tabular",
         "github.com/plasticboy/vim-markdown",
         "github.com/autozimu/LanguageClient-neovim",
-        "github.com/Shougo/deoplete.nvim",
-        "github.com/roxma/nvim-yarp",
-        "github.com/roxma/vim-hug-neovim-rpc"
+        "github.com/w0rp/ale"
       ]
     }
   ]
