@@ -61,6 +61,11 @@
       "type": "git",
       "path": "github.com/w0rp/ale",
       "version": "fd0467f9927d0bf5ee88b157c1978c3b69509460"
+    },
+    {
+      "type": "git",
+      "path": "github.com/editorconfig/editorconfig-vim",
+      "version": "2c3e5323609d97ad7bda6fc22ae1f7746caab3d4"
     }
   ],
   "profiles": [
@@ -78,7 +83,8 @@
         "github.com/godlygeek/tabular",
         "github.com/plasticboy/vim-markdown",
         "github.com/autozimu/LanguageClient-neovim",
-        "github.com/w0rp/ale"
+        "github.com/w0rp/ale",
+        "github.com/editorconfig/editorconfig-vim"
       ]
     }
   ]
