@@ -21,6 +21,8 @@ function! s:on_load_post()
   hi Warning term=underline cterm=underline ctermfg=Yellow gui=undercurl guisp=Gold
   hi link ALEWarning Warning
   hi link ALEInfo SpellCap
+
+  let g:LanguageClient_rootMarkers = ['*.cabal', 'stack.yaml']
 endfunction
 
 function! s:loaded_on()
