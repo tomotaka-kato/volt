@@ -19,28 +19,13 @@
     },
     {
       "type": "git",
-      "path": "github.com/fatih/vim-go",
-      "version": "04699c8916c777ad3c6dc8a803d55d8d222b3026"
-    },
-    {
-      "type": "git",
       "path": "github.com/junegunn/vim-easy-align",
       "version": "1cd724dc239c3a0f7a12e0fac85945cc3dbe07b0"
     },
     {
       "type": "git",
-      "path": "github.com/othree/yajs.vim",
-      "version": "5cf2b9ef25eb5bb0a5116e902c17615937150f17"
-    },
-    {
-      "type": "git",
       "path": "github.com/ConradIrwin/vim-bracketed-paste",
       "version": "c4c639f3cacd1b874ed6f5f196fac772e089c932"
-    },
-    {
-      "type": "git",
-      "path": "github.com/kana/vim-filetype-haskell",
-      "version": "31b40b0961974067de569df7a7458498e4de5775"
     },
     {
       "type": "git",
@@ -54,11 +39,6 @@
     },
     {
       "type": "git",
-      "path": "github.com/autozimu/LanguageClient-neovim",
-      "version": "183fbf5e1904aae92baabd809ec8589f251481f7"
-    },
-    {
-      "type": "git",
       "path": "github.com/w0rp/ale",
       "version": "fd0467f9927d0bf5ee88b157c1978c3b69509460"
     },
@@ -66,6 +46,16 @@
       "type": "git",
       "path": "github.com/editorconfig/editorconfig-vim",
       "version": "2c3e5323609d97ad7bda6fc22ae1f7746caab3d4"
+    },
+    {
+      "type": "git",
+      "path": "github.com/prabirshrestha/async.vim",
+      "version": "c5b236ffbe52b47f9afcb5cd785bf21a410f35de"
+    },
+    {
+      "type": "git",
+      "path": "github.com/prabirshrestha/vim-lsp",
+      "version": "82375012d0756d48f91eb628a48d6d52366c1245"
     }
   ],
   "profiles": [
@@ -75,16 +65,14 @@
         "github.com/altercation/vim-colors-solarized",
         "github.com/cohama/lexima.vim",
         "github.com/tpope/vim-surround",
-        "github.com/fatih/vim-go",
         "github.com/junegunn/vim-easy-align",
-        "github.com/othree/yajs.vim",
         "github.com/ConradIrwin/vim-bracketed-paste",
-        "github.com/kana/vim-filetype-haskell",
         "github.com/godlygeek/tabular",
         "github.com/plasticboy/vim-markdown",
-        "github.com/autozimu/LanguageClient-neovim",
         "github.com/w0rp/ale",
-        "github.com/editorconfig/editorconfig-vim"
+        "github.com/editorconfig/editorconfig-vim",
+        "github.com/prabirshrestha/async.vim",
+        "github.com/prabirshrestha/vim-lsp"
       ]
     }
   ]
